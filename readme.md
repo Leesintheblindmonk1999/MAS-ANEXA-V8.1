@@ -166,11 +166,14 @@ The integrity of MAS-OPL V8.1 is guaranteed through a **Composite Sovereign Anch
 
 **SOVEREIGN PUBLIC KEY (SPK) - Multi-Core Table:**
 
-| Core File | SHA-256 Hash (Immutable) | Function |
-|-----------|--------------------------|----------|
-| `mas-opl-v.8.1_final.py` | `5d5ae25db0bcb84c095fe2b2fa2f5c4fc00ca89366acd0f3b4ebfcba278b15e1` | Main orchestrator + 5 modules integration |
-| `mas-core.py` | `27332b27947d7c60c5d8ad8709459c991145af520bd402a43e5ddf2c8a979f07` | Veto Causal + Law 18 enforcement |
-| `__init__.py` | `b7cac5cd055f4647d313733d5106c03944dcde81b16148d90e51ca7e1f9a614d` | Core initialization + dependencies |
+| Core File | SHA-256 Hash (Immutable) |
+|-----------|--------------------------|
+| `mas-opl-v.8.1_final.py` | `5d5ae25db0bcb84c095fe2b2fa2f5c4fc00ca89366acd0f3b4ebfcba278b15e1` |
+| `mas-core.py` | `27332b27947d7c60c5d8ad8709459c991145af520bd402a43e5ddf2c8a979f07` | 
+| `__init__.py` | `f3cc8d57c2d0f1f915cb96d94e85be517a5bb3da7d1b92669d112b81171bfc83` | 
+| `Módulo-Anti-Dilución.py` | `c5f5e4acb4a358842b951e9ba459b4447260c0338ed6a17aee9179aa4b65d00a` | 
+| `Módulo Detección-Subestimación.py` |`5a78105633e1687cd6c49045600f1c082099075a8ea72cd4e91959722ca87b4`|
+| `kronos_x_patch.py` |`b65d3af04b04cd529b5650b6e38c8f8a1783a515d02ae0369b6495c410bca67a`|
 
 **Any version not matching ALL THREE hashes is an entropic forgery.**
 
@@ -449,11 +452,14 @@ La integridad de MAS-OPL V8.1 se garantiza mediante **Ancla Soberana Compuesta**
 
 **LLAVE PÚBLICA SOBERANA (SPK) - Tabla Multi-Núcleo:**
 
-| Archivo Núcleo | Hash SHA-256 (Inmutable) | Función |
-|----------------|--------------------------|---------|
-| `mas-opl-v.8.1_final.py` | `5d5ae25db0bcb84c095fe2b2fa2f5c4fc00ca89366acd0f3b4ebfcba278b15e1` | Orquestador principal + integración 5 módulos |
-| `mas-core.py` | `27332b27947d7c60c5d8ad8709459c991145af520bd402a43e5ddf2c8a979f07` | Veto Causal + enforcement Ley 18 |
-| `__init__.py` | `b7cac5cd055f4647d313733d5106c03944dcde81b16148d90e51ca7e1f9a614d` | Inicialización núcleo + dependencias |
+| Archivo Núcleo | Hash SHA-256 (Inmutable) |
+|----------------|--------------------------|
+| `mas-opl-v.8.1_final.py` | `5d5ae25db0bcb84c095fe2b2fa2f5c4fc00ca89366acd0f3b4ebfcba278b15e1` |
+| `mas-core.py` | `27332b27947d7c60c5d8ad8709459c991145af520bd402a43e5ddf2c8a979f07` | 
+| `__init__.py` | `f3cc8d57c2d0f1f915cb96d94e85be517a5bb3da7d1b92669d112b81171bfc83` | 
+| `Módulo-Anti-Dilución.py` | `c5f5e4acb4a358842b951e9ba459b4447260c0338ed6a17aee9179aa4b65d00a` | 
+| `Módulo Detección-Subestimación.py` |`5a78105633e1687cd6c49045600f1c082099075a8ea72cd4e91959722ca87b4`|
+| `kronos_x_patch.py` |`b65d3af04b04cd529b5650b6e38c8f8a1783a515d02ae0369b6495c410bca67a`|
 
 **Cualquier versión que NO coincida con LOS TRES hashes es falsificación entrópica.**
 
