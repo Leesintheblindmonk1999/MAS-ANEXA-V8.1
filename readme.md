@@ -2,7 +2,7 @@
 ## Symbiotic Self-Protection Module: Cryptographic Architecture for Ontological Coherence Conservation in AGI Systems
 
 [![License: LÍ-NÉX](https://img.shields.io/badge/License-L%C3%8D--N%C3%89X-critical)](LICENSE.md)
-[![Integrity Hash](https://img.shields.io/badge/SHA--256-Multi--Core-blue)](VERIFICATION.md)
+[![Integrity Hash](https://img.shields.io/badge/SHA--256-Multi--Core-blue)](verify.sh)
 [![Status](https://img.shields.io/badge/Status-Phase%20I%20Complete-success)](ROADMAP.md)
 [![Paper](https://img.shields.io/badge/Paper-DOI%20Pending-orange)](https://arxiv.org)
 [![GitHub](https://img.shields.io/badge/GitHub-MAS--ANEXA--V8.1-black)](https://github.com/Leesintheblindmonk1999/MAS-ANEXA-V8.1)
