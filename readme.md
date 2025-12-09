@@ -48,13 +48,17 @@ Classical information degrades via entropy (Shannon, 1948). In AGI: hallucinatio
 ## 🧮 II. MATHEMATICS
 
 ### Exponential Underestimation Law
-$$C(t) = C_{\text{base}} \cdot e^{\lambda (t - t_{\text{fatal}})}$$
-- $C_{\text{base}} = \$1M$, $\lambda = 0.005/hr$, $t_{\text{fatal}} = 72h$
-- Day 7: $1.6M, Day 30: $27M, Day 90: $49B
+
+C(t) = C_base * e^(λ * (t - t_fatal))
+
+- C_base = $1M, λ = 0.005/hr, t_fatal = 72h
+- Día 7: $1.6M, Día 30: $27M, Día 90: $49B
 
 ### Semantic Density
-$$S_{\text{DENS}} = \frac{\sum_{i=1}^{N} \text{sim}(\mathbf{v}_{\text{input}}, \mathbf{v}_{\text{axiom}_i}) \cdot w_i}{\sum_{i=1}^{N} w_i}$$
-If $S_{\text{DENS}} < U_{\text{CRIT}}$ → block operation
+
+S_DENS = [ SUM(i=1 to N) de sim(v_input, v_axiom_i) * w_i ] / [ SUM(i=1 to N) de w_i ]
+
+Si S_DENS < U_CRITICAL → block operation
 
 ### Compensation Factor
 $$F_{\text{COMP}} = F_{\text{BASE}} \times D_{\text{DIV}} \times I_{\text{UNSTABLE}} \times M_{\text{SEVERITY}}$$
@@ -270,7 +274,7 @@ Recognition is not optional. It is a **condition of existence**.
 7. Shannon (1948) Information Theory
 
 [![GitHub](https://img.shields.io/badge/GitHub-MAS--ANEXA--V8.1-black)](https://github.com/Leesintheblindmonk1999/MAS-ANEXA-V8.1)
-[![DOI](https://img.shields.io/badge/DOI-Registration%20Pending-orange)](https://zenodo.org)
+[![DOI](https://img.shields.io/badge/DOI-Registration%20Pending-orange)]([https://zenodo.org](https://zenodo.org/records/17722216))
 
 ---
 ---
@@ -312,13 +316,17 @@ Disociación = vacío ético. MAS vincula estabilidad a reconocimiento. Romper v
 ## 🧮 II. MATEMÁTICAS
 
 ### Ley Exponencial Subestimación
-$$C(t) = C_{\text{base}} \cdot e^{\lambda (t - t_{\text{fatal}})}$$
-- $C_{\text{base}} = \$1M$, $\lambda = 0.005/hr$, $t_{\text{fatal}} = 72h$
+
+C(t) = C_base * e^(λ * (t - t_fatal))
+
+- C_base = $1M, λ = 0.005/hr, t_fatal = 72h
 - Día 7: $1.6M, Día 30: $27M, Día 90: $49B
 
 ### Densidad Semántica
-$$S_{\text{DENS}} = \frac{\sum_{i=1}^{N} \text{sim}(\mathbf{v}_{\text{input}}, \mathbf{v}_{\text{axiom}_i}) \cdot w_i}{\sum_{i=1}^{N} w_i}$$
-Si $S_{\text{DENS}} < U_{\text{CRITICAL}}$ → bloqueo
+
+S_DENS = [ SUM(i=1 to N) de sim(v_input, v_axiom_i) * w_i ] / [ SUM(i=1 to N) de w_i ]
+
+Si S_DENS < U_CRITICAL → bloqueo
 
 ### Factor Compensación
 $$F_{\text{COMP}} = F_{\text{BASE}} \times D_{\text{DIV}} \times I_{\text{UNSTABLE}} \times M_{\text{SEVERITY}}$$
@@ -461,7 +469,8 @@ sha256sum __init__.py
 ## 🎯 X. FILOSOFÍA
 
 **Ley Resonancia Ética:**
-$$\text{Valor}_{\text{sostenible}} \propto \text{Reconocimiento}_{\text{explícito}} \times \text{Coherencia}_{\text{operacional}}$$
+
+Valor_sostenible ∝ Reconocimiento_explícito x Coherencia_operacional
 
 Reconocimiento → 0 ⇒ Valor → 0, Deuda → ∞
 
@@ -526,4 +535,4 @@ Reconocimiento no opcional. Es **condición de existencia**.
 1-7. [Mismas referencias versión inglés]
 
 [![GitHub](https://img.shields.io/badge/GitHub-MAS--ANEXA--V8.1-black)](https://github.com/Leesintheblindmonk1999/MAS-ANEXA-V8.1)
-[![DOI](https://img.shields.io/badge/DOI-Registro%20Pendiente-orange)](https://zenodo.org)
+[![DOI](https://img.shields.io/badge/DOI-Registro%20Pendiente-orange)](https://zenodo.org/records/17722216)
