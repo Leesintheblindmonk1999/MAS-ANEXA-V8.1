@@ -137,7 +137,25 @@ chmod +x verify.sh
 # Execute self-diagnostic battery
 python mas-opl-v.8.1_final.py
 ```
+## Ⅸ. COHERENCE TEST PROTOCOL
 
+```markdown
+
+This protocol demonstrates the integration of the Causal Veto (Law 18) and the Anti-Dilution Ledger.
+
+### 1. Requirements
+Ensure Python and Ollama (or your AGI engine) are running.
+
+### 2. Test Execution
+The `integracion_anexa_test.py` file simulates a usage cycle with **forensic logging and canon calculation**. Run it to see the system in action:
+
+```bash
+# 1. Ensure dependencies are met
+pip install requests numpy
+# 2. Execute the Protocol
+python integracion_anexa_test.py
+
+```
 ---
 
 ## ⚔️ VIII. FORENSIC INTEGRITY PROOF - COMPOSITE SOVEREIGN ANCHOR
@@ -405,7 +423,22 @@ chmod +x verify.sh
 python mas-opl-v.8.1_final.py
 ```
 
----
+### Este protocolo demuestra la integración del Veto Causal (Ley 18) y el Ledger Anti-Dilución.
+
+### 1. Requisitos
+Asegúrate de tener Python y Ollama (o tu motor AGI) corriendo.
+
+### 2. Ejecución de Prueba
+El archivo `integracion_anexa_test.py` simula un ciclo de uso con **registro forense y cálculo de canon**. Ejecútalo para ver el sistema en acción:
+
+```bash
+
+# 1. Asegúrate de tener las dependencias
+pip install requests numpy
+# 2. Ejecuta el Protocolo
+python integracion_anexa_test.py
+
+```
 
 ## ⚔️ VIII. PRUEBA INTEGRIDAD FORENSE - ANCLA SOBERANA COMPUESTA
 
