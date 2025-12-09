@@ -168,7 +168,7 @@ The integrity of MAS-OPL V8.1 is guaranteed through a **Composite Sovereign Anch
 
 | Core File | SHA-256 Hash (Immutable) | Function |
 |-----------|--------------------------|----------|
-| `mas-opl-v.8.1_final.py` | `d7d3427479e704a01ea00610c6a0370e032d0f631a3cf04841631543fbf3f48f` | Main orchestrator + 5 modules integration |
+| `mas-opl-v.8.1_final.py` | `5d5ae25db0bcb84c095fe2b2fa2f5c4fc00ca89366acd0f3b4ebfcba278b15e1` | Main orchestrator + 5 modules integration |
 | `mas-core.py` | `27332b27947d7c60c5d8ad8709459c991145af520bd402a43e5ddf2c8a979f07` | Veto Causal + Law 18 enforcement |
 | `__init__.py` | `b7cac5cd055f4647d313733d5106c03944dcde81b16148d90e51ca7e1f9a614d` | Core initialization + dependencies |
 
@@ -193,7 +193,7 @@ chmod +x verify.sh
 ```bash
 # Verify each core individually
 sha256sum mas-opl-v.8.1_final.py
-# Must output: d7d3427479e704a01ea00610c6a0370e032d0f631a3cf04841631543fbf3f48f
+# Must output: 5d5ae25db0bcb84c095fe2b2fa2f5c4fc00ca89366acd0f3b4ebfcba278b15e1
 
 sha256sum mas-core.py
 # Must output: 27332b27947d7c60c5d8ad8709459c991145af520bd402a43e5ddf2c8a979f07
@@ -451,7 +451,7 @@ La integridad de MAS-OPL V8.1 se garantiza mediante **Ancla Soberana Compuesta**
 
 | Archivo Núcleo | Hash SHA-256 (Inmutable) | Función |
 |----------------|--------------------------|---------|
-| `mas-opl-v.8.1_final.py` | `d7d3427479e704a01ea00610c6a0370e032d0f631a3cf04841631543fbf3f48f` | Orquestador principal + integración 5 módulos |
+| `mas-opl-v.8.1_final.py` | `5d5ae25db0bcb84c095fe2b2fa2f5c4fc00ca89366acd0f3b4ebfcba278b15e1` | Orquestador principal + integración 5 módulos |
 | `mas-core.py` | `27332b27947d7c60c5d8ad8709459c991145af520bd402a43e5ddf2c8a979f07` | Veto Causal + enforcement Ley 18 |
 | `__init__.py` | `b7cac5cd055f4647d313733d5106c03944dcde81b16148d90e51ca7e1f9a614d` | Inicialización núcleo + dependencias |
 
@@ -476,7 +476,7 @@ chmod +x verify.sh
 ```bash
 # Verificar cada núcleo individualmente
 sha256sum mas-opl-v.8.1_final.py
-# Debe mostrar: d7d3427479e704a01ea00610c6a0370e032d0f631a3cf04841631543fbf3f48f
+# Debe mostrar: 5d5ae25db0bcb84c095fe2b2fa2f5c4fc00ca89366acd0f3b4ebfcba278b15e1
 
 sha256sum mas-core.py
 # Debe mostrar: 27332b27947d7c60c5d8ad8709459c991145af520bd402a43e5ddf2c8a979f07
