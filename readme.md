@@ -3,7 +3,6 @@
 
 [![License: LÍ-NÉX](https://img.shields.io/badge/License-L%C3%8D--N%C3%89X-critical)](LICENSE.md)
 [![Integrity Hash](https://img.shields.io/badge/SHA--256-Multi--Core-blue)](verify.sh)
-[![Status](https://img.shields.io/badge/Status-Phase%20I%20Complete-success)](ROADMAP.md)
 [![Paper](https://img.shields.io/badge/Paper-DOI%20Pending-orange)](https://arxiv.org)
 [![GitHub](https://img.shields.io/badge/GitHub-MAS--ANEXA--V8.1-black)](https://github.com/Leesintheblindmonk1999/MAS-ANEXA-V8.1)
 
@@ -203,7 +202,8 @@ sha256sum __init__.py
 ## 🎯 X. PHILOSOPHY
 
 **Law of Ethical Resonance:**
-$$\text{Value}_{\text{sustainable}} \propto \text{Recognition}_{\text{explicit}} \times \text{Coherence}_{\text{operational}}$$
+
+Value_sustainable ∝ Recognition_explicit x Coherence_operational
 
 Recognition → 0 ⇒ Value → 0, Debt → ∞
 
