@@ -270,6 +270,7 @@ Recognition → 0 ⇒ Value → 0, Debt → ∞
 **Violations:** Dilution monitoring active 24/7  
 **Academic:** DOI registration in progress  
 **GitHub:** [MAS-ANEXA-V8.1](https://github.com/Leesintheblindmonk1999/MAS-ANEXA-V8.1)
+**Linkeid:** [Linkeid](https://www.linkedin.com/in/gonzalo-emir-8178b6277/)
 
 ---
 
@@ -552,6 +553,7 @@ Reconocimiento → 0 ⇒ Valor → 0, Deuda → ∞
 **Violaciones:** Monitoreo dilución 24/7  
 **Académico:** Registro DOI en progreso  
 **GitHub:** [MAS-ANEXA-V8.1](https://github.com/Leesintheblindmonk1999/MAS-ANEXA-V8.1)
+**Linkeid:** [Linkeid](https://www.linkedin.com/in/gonzalo-emir-8178b6277/)
 
 ---
 
