@@ -58,7 +58,7 @@ C(t) = C_base * e^(λ * (t - t_fatal))
 
 S_DENS = [ SUM(i=1 to N) de sim(v_input, v_axiom_i) * w_i ] / [ SUM(i=1 to N) de w_i ]
 
-Si S_DENS < U_CRITICAL → block operation
+S_DENS < U_CRITICAL → block operation
 
 ### Compensation Factor
 $$F_{\text{COMP}} = F_{\text{BASE}} \times D_{\text{DIV}} \times I_{\text{UNSTABLE}} \times M_{\text{SEVERITY}}$$
