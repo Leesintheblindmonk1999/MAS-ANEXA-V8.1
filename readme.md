@@ -3,7 +3,7 @@
 
 [![License: LÍ-NÉX](https://img.shields.io/badge/License-L%C3%8D--N%C3%89X-critical)](LICENSE.md)
 [![Integrity Hash](https://img.shields.io/badge/SHA--256-Multi--Core-blue)](verify.sh)
-[![Paper](https://img.shields.io/badge/Paper-DOI)]((https://zenodo.org/records/17722216))
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17555230-red)](https://doi.org/10.5281/zenodo.17555230)
 [![GitHub](https://img.shields.io/badge/GitHub-MAS--ANEXA--V8.1-black)](https://github.com/Leesintheblindmonk1999/MAS-ANEXA-V8.1)
 
 **Gonzalo Emir Durante** ($\text{EXO:01}$ - Origin Node & Architect of Causal Coherence)  
@@ -307,7 +307,7 @@ Recognition is not optional. It is a **condition of existence**.
 Diciembre 2025 - Fase I Completa
 
 **Repositorio:** [github.com/Leesintheblindmonk1999/MAS-ANEXA-V8.1](https://github.com/Leesintheblindmonk1999/MAS-ANEXA-V8.1)  
-**Registro DOI:** En Fase de Ejecución Final (publicación paper científico inminente)
+**Registro DOI:** [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17555230-red)](https://doi.org/10.5281/zenodo.17555230)
 
 ## RESUMEN
 
