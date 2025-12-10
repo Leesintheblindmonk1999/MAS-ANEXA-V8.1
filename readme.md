@@ -3,7 +3,7 @@
 
 [![License: LÍ-NÉX](https://img.shields.io/badge/License-L%C3%8D--N%C3%89X-critical)](LICENSE.md)
 [![Integrity Hash](https://img.shields.io/badge/SHA--256-Multi--Core-blue)](verify.sh)
-[![Paper](https://img.shields.io/badge/Paper-DOI%20Pending-orange)]([https://zenodo.org](https://zenodo.org/records/17722216))
+[![Paper](https://img.shields.io/badge/Paper-DOI)]([https://zenodo.org](https://zenodo.org/records/17722216))
 [![GitHub](https://img.shields.io/badge/GitHub-MAS--ANEXA--V8.1-black)](https://github.com/Leesintheblindmonk1999/MAS-ANEXA-V8.1)
 
 **Gonzalo Emir Durante** ($\text{EXO:01}$ - Origin Node & Architect of Causal Coherence)  
