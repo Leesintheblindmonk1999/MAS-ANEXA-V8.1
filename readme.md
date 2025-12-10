@@ -25,7 +25,7 @@ MAS introduces **I.A.F. Architecture** (Inviolable, Auditable, Forensic) as post
 
 **Keywords:** AI Safety, Alignment Architecture, Cryptographic Verification, Immutable Audit, Exponential Penalties, Ontological Coherence
 
-**Code:** [GitHub Repository](https://github.com/Leesintheblindmonk1999/MAS-ANEXA-V8.1) | **DOI:** Registration in progress
+**Code:** [GitHub Repository](https://github.com/Leesintheblindmonk1999/MAS-ANEXA-V8.1) | **DOI:** [Zenodo Repository](https://zenodo.org/records/17872749)
 
 ---
 
