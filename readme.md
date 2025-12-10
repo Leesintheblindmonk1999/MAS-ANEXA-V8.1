@@ -11,7 +11,7 @@
 December 2025 - Phase I Complete
 
 **Repository:** [github.com/Leesintheblindmonk1999/MAS-ANEXA-V8.1](https://github.com/Leesintheblindmonk1999/MAS-ANEXA-V8.1)  
-**DOI Registration:** In Final Execution Phase (Scientific paper publication imminent)
+**DOI Registration:** [![DOI](https://img.shields.io/badge/DOI-Registration%20Pending-orange)]([https://zenodo.org](https://zenodo.org/records/17722216))
 
 ---
 
