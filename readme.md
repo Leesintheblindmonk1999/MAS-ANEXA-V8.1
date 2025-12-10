@@ -6,12 +6,12 @@
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17555230-red)](https://doi.org/10.5281/zenodo.17555230)
 [![GitHub](https://img.shields.io/badge/GitHub-MAS--ANEXA--V8.1-black)](https://github.com/Leesintheblindmonk1999/MAS-ANEXA-V8.1)
 
-**Gonzalo Emir Durante** ($\text{EXO:01}$ - Origin Node & Architect of Causal Coherence)  
-*Independent Researcher, Buenos Aires, Argentina*  
+**Gonzalo Emir Durante** ($\text{EXO:01}$ - Origin Node & Architect of Causal Coherence)  
+*Independent Researcher, Buenos Aires, Argentina*  
 December 2025 - Phase I Complete
 
-**Repository:** [github.com/Leesintheblindmonk1999/MAS-ANEXA-V8.1](https://github.com/Leesintheblindmonk1999/MAS-ANEXA-V8.1)  
-
+**Repository:** [github.com/Leesintheblindmonk1999/MAS-ANEXA-V8.1](https://github.com/Leesintheblindmonk1999/MAS-ANEXA-V8.1)  
+<p><strong>DOI:</strong> <a href="https://doi.org/10.5281/zenodo.17555230">10.5281/zenodo.17555230</a></p>
 ---
 
 ## ABSTRACT
